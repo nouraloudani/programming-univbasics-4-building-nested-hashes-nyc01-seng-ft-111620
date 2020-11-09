@@ -54,7 +54,8 @@ def monopoly_with_fourth_tier
       :three_pieces_owned => 100,
       :four_pieces_owned => 200
     },
-    :names => {he hash assigned to :reading_railroad includes a :mortgage_value key set to 100
+    :names => {
+      :reading_railroad => :mortgage_value key set to 100
 the hash assigned to :pennsylvania_railroad includes a :mortgage_value key set to 200
 the hash assigned to :b_and_o_railroad includes a :mortgage_value key set to 400
 the hash assigned to :shortline_railroad includes a :mortgage_value key set to 800}
